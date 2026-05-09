@@ -63,11 +63,11 @@ export default function LandingPage() {
       tag="Clínica Odontológica Especializada"
       mediaItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/positive-bearded-male-doctor-smiling-points-away-space-text-white-background-attractive-intern-wearing-uniform-looking-confident-isolated_574295-6094.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/positive-bearded-male-doctor-smiling-points-away-space-text-white-background-attractive-intern-wearing-uniform-looking-confident-isolated_574295-6094.jpg?_wi=1",
           imageAlt: "Dentista atendendo paciente",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-girl-dentist_1157-18608.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-girl-dentist_1157-18608.jpg?_wi=1",
           imageAlt: "Equipamentos odontológicos modernos",
         },
         {
@@ -134,7 +134,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/coffe-shop-with-wooden-walls-unfocused_1203-1230.jpg",
             imageAlt: "Ortodontia",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/positive-bearded-male-doctor-smiling-points-away-space-text-white-background-attractive-intern-wearing-uniform-looking-confident-isolated_574295-6094.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/positive-bearded-male-doctor-smiling-points-away-space-text-white-background-attractive-intern-wearing-uniform-looking-confident-isolated_574295-6094.jpg?_wi=2",
           imageAlt: "dentist consultation modern clinic",
         },
         {
@@ -153,7 +153,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/dentist-performing-teeth-whitening_23-2148396218.jpg",
             imageAlt: "Implantes",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-girl-dentist_1157-18608.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/beautiful-girl-dentist_1157-18608.jpg?_wi=2",
           imageAlt: "dentist consultation modern clinic",
         },
         {
@@ -172,7 +172,7 @@ export default function LandingPage() {
             imageSrc: "http://img.b2bpic.net/free-photo/portrait-smiling-doctor-crossed-hands-front-white-wall_158595-7667.jpg",
             imageAlt: "Estética",
           },
-          imageSrc: "http://img.b2bpic.net/free-photo/surprised-woman-with-hands-up-amazed-shocked-by-unexpected-news_273609-13734.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/surprised-woman-with-hands-up-amazed-shocked-by-unexpected-news_273609-13734.jpg?_wi=1",
           imageAlt: "dentist consultation modern clinic",
         },
       ]}
@@ -241,7 +241,7 @@ export default function LandingPage() {
           name: "Ana Oliveira",
           role: "Empresária",
           testimonial: "Atendimento incrível, me senti muito segura e confortável.",
-          imageSrc: "http://img.b2bpic.net/free-photo/surprised-woman-with-hands-up-amazed-shocked-by-unexpected-news_273609-13734.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/surprised-woman-with-hands-up-amazed-shocked-by-unexpected-news_273609-13734.jpg?_wi=2",
         },
         {
           id: "t2",
@@ -309,7 +309,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/portrait-beautiful-afro-american-woman_23-2148332136.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/positive-bearded-male-doctor-smiling-points-away-space-text-white-background-attractive-intern-wearing-uniform-looking-confident-isolated_574295-6094.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/positive-bearded-male-doctor-smiling-points-away-space-text-white-background-attractive-intern-wearing-uniform-looking-confident-isolated_574295-6094.jpg?_wi=3",
           imageAlt: "professional dentist portrait",
         },
       ]}
